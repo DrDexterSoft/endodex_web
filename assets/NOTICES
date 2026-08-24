@@ -5641,7 +5641,6 @@ google_sign_in_android
 google_sign_in_ios
 google_sign_in_platform_interface
 google_sign_in_web
-in_app_purchase
 in_app_purchase_platform_interface
 path_provider
 path_provider_foundation
@@ -21405,6 +21404,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 --------------------------------------------------------------------------------
+in_app_purchase
 in_app_purchase_android
 in_app_purchase_storekit
 path_provider_android
